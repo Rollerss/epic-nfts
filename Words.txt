@@ -1,0 +1,5 @@
+["Time","Person","Year","Way","Day","Thing","Man","World","Life","Hand","Part","Child","Eye","Woman","Place","Work","Week","Case","Point","Government","Company","Number","Group","Problem","Fact"]
+
+["Be","Have","Do","Say","Get","Make","Go","Know","Take","See","Come","Think","Look","Want","Give","Use","Find","Tell","Ask","Work","Seem","Feel","Try","Leave","Call"]
+
+["Good","New","First","Last","Long","Great","Little","Own","Other","Old","Right","Big","High","Different","Small","Large","Next","Early","Young","Important","Few","Public","Bad","Same","Able"]
